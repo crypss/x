@@ -3,3 +3,13 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TRT Spor Yildiz HD" tvg-logo="https://i.ibb.co/SDBWy0yx/TRT-SPOR-YILDIZ.png" group-title="TR ⚡️ Spor | Spor",TRT SPOR YILDIZ
 http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/342244.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1 ()
+http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430088.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1  (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1 ()
+http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430089.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1 ()
+http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430090.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT SPOR ()
+http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430091.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT SPOR ()
+http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430092.ts
