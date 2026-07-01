@@ -27,6 +27,17 @@ http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430093.ts|User-Agent=E
 #EXTINF:-1 tvg-id="" tvg-name="TR • Tivibu Spor" tvg-logo="https://i.ibb.co/N2bKFDXV/images-1.png" group-title="TRT1 CANLI",TR • TIVIBU SPOR
 http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/357265.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-name="TVRI Sport Digital" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 SPOR 2
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 SPOR 3
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1440p.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 SPOR 4
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor&ppid=e67f6aa79d604002f37ace34d2ca101c|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 SPOR 5
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor&ppid=e67f6aa79d604002f37ace34d2ca101c|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
