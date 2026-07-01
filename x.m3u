@@ -29,5 +29,4 @@ http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/357265.ts|User-Agent=E
 
 #EXTINF:-1 tvg-name="TVRI Sport Digital" tvg-logo="https://i.imgur.com/QMDLXBK.jpeg" tvg-id="Digital.id" group-title=" (Kadang Mati) TV Digital Sports",TVRI Sport Digital (server 1)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-http://103.148.44.38:8000/play/a05u/index.m3u8
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
