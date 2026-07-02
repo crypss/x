@@ -3,41 +3,14 @@
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 CANLI
 https://tv-trt1.medya.trt.com.tr/master.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="trtsporyildiz.tr" tvg-name="TRT Spor Yildiz HD" tvg-logo="https://i.ibb.co/SDBWy0yx/TRT-SPOR-YILDIZ.png" group-title="TRT1 CANLI",TRT SPOR YILDIZ
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/342244.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430088.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1  (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430089.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT 1
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430090.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TRT SPOR 1
-https://trt.daioncdn.net/trtspor-yildiz/master_1440p.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT SPOR
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430091.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT SPOR
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430092.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="TRT1 CANLI",TR: TRT SPOR
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/430093.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR • Tivibu Spor" tvg-logo="https://i.ibb.co/N2bKFDXV/images-1.png" group-title="TRT1 CANLI",TR • TIVIBU SPOR
-http://noxtin5.noxxtinyur.xyz:80/live/ozn.8516/5JLRKy4ALf/357265.ts|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 2K
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 2K
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT2 2K
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 2K VPN BACKUP
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRTSPORT(VPN)
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT1 2K VPN
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT2SPOR(VPN)
 https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
