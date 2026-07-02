@@ -14,3 +14,9 @@ https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8|User-Agent=Mozilla/5.0 (Wi
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT1 CANLI",TRT2SPOR(VPN)
 https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="Test 1",TRT2SPOR(VPN)
+https://https://ziyaret.tv.vin/trt1.m3u8?tkn=kDTMHeRMD2atukgyEMzVRw&tms=1783027012&hst=tv.vin&ip=182.8.250.4&utkn=59e0986db36d43f64123c523ea3cf676&ch=trt-1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT1 CANLI" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="Test2",TRT2SPOR(VPN)
+https://keban.tv.vin/trt1.m3u8?tkn=0ImDbkFjaotT9C00CuTG0A&tms=1783027089&hst=tv.vin&ip=182.8.250.4&utkn=59e0986db36d43f64123c523ea3cf676&ch=trt-1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
