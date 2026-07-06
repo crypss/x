@@ -14,3 +14,6 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8|User-Agent=Mozilla/5.0 (Macinto
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT",TRT1 DAION 2K
 https://trt.daioncdn.net/trt-1/master_1440.m3u8?app=clean|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TRT",Test
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuW1Fs344n15KEeKaKxZwJ1/m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
