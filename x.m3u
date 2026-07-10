@@ -22,7 +22,7 @@ http://schwarzer-1903.com:8080/zonnergsTRR/eTtRAEcSuU/229|User-Agent=Mozilla/5.0
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
 
 #EXTINF:-1 tvg-id="FOXUS" tvg-name="FOX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="FOX",FOX SPORT
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2504User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2504|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
 
 #EXTINF:-1 tvg-id="FOXUS" tvg-name="FOX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="FOX",FOX SPORT 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
