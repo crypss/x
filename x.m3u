@@ -29,3 +29,6 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8|User-Agent=Mozilla/5.0 (Ma
 
 #EXTINF:-1 tvg-id="FOXUS" tvg-name="FOX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="FOX",FUBO SPORT
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+
+#EXTINF:-1 tvg-id="FOXUS" tvg-name="FOX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="FOX",FOX SPORT 2
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
