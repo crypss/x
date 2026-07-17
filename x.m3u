@@ -33,13 +33,73 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 #EXTINF:-1 tvg-id="FOXUS" tvg-name="FOX" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="FOX",FOX SPORT 2
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
 
-# -------- OTROS --------
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="OTROS",TSN+ *
-http://127.0.0.1:6878/ace/getstream?id=8374a313823bbaa3140ca510a172cbc1830f609c
-
-# -------- TDT --------
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE 4K *
-http://127.0.0.1:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
-
-#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="TDT",La 1 TVE 4K **
-http://127.0.0.1:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
+#EXTINF:-1 tvg-name="USA: FOX SPORTS 1" group-title="SPORTS",USA: FOX SPORTS 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14118.ts
+#EXTINF:-1 tvg-name="USA: FOX SPORTS 1 FHD" group-title="SPORTS",USA: FOX SPORTS 1 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32931.ts
+#EXTINF:-1 tvg-name="USA: FOX SPORTS 2" group-title="SPORTS",USA: FOX SPORTS 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14117.ts
+#EXTINF:-1 tvg-name="WC: FOX SPORTS 1" group-title="WORLD CUP",WC: FOX SPORTS 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57451.ts
+#EXTINF:-1 tvg-name="LAT: Fox Sports 1" group-title="LATIN",LAT: Fox Sports 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57304.ts
+#EXTINF:-1 tvg-name="LAT: FOX SPORTS 2" group-title="LATIN",LAT: FOX SPORTS 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57303.ts
+#EXTINF:-1 tvg-name="LAT: Fox Sports 3" group-title="LATIN",LAT: Fox Sports 3
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57302.ts
+#EXTINF:-1 tvg-name="LAT: Fox Sports Premium" group-title="LATIN",LAT: Fox Sports Premium
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57301.ts
+#EXTINF:-1 tvg-name="Fox Sports Racing HD" group-title="SPORTS",Fox Sports Racing HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/44253.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 1 " group-title="UK SPORTS",UKUHD: SSP 1 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59262.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 2" group-title="UK SPORTS",UKUHD: SSP 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59263.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP F1" group-title="UK SPORTS",UKUHD: SSP F1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59264.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP Main Event" group-title="UK SPORTS",UKUHD: SSP Main Event
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59265.ts
+#EXTINF:-1 tvg-name="Hub Premier 2 UHD" group-title="FOOTBALL",Hub Premier 2 UHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59401.ts
+#EXTINF:-1 tvg-name="WC: 4K 1" group-title="WORLD CUP",WC: 4K 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57461.ts
+#EXTINF:-1 tvg-name="WC: 4K 2" group-title="WORLD CUP",WC: 4K 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61850.ts
+#EXTINF:-1 tvg-name="WC: 4K 3" group-title="WORLD CUP",WC: 4K 3
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61851.ts
+#EXTINF:-1 tvg-name="WC: 4K 4" group-title="WORLD CUP",WC: 4K 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61853.ts
+#EXTINF:-1 tvg-name="WC: 4K 5" group-title="WORLD CUP",WC: 4K 5
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61852.ts
+#EXTINF:-1 tvg-name="WC: BBC HD 1" group-title="WORLD CUP",WC: BBC HD 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57458.ts
+#EXTINF:-1 tvg-name="WC: BBC HD 2" group-title="WORLD CUP",WC: BBC HD 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61854.ts
+#EXTINF:-1 tvg-name="WC: FOX" group-title="WORLD CUP",WC: FOX
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57452.ts
+#EXTINF:-1 tvg-name="WC: FOX SPORTS 1" group-title="WORLD CUP",WC: FOX SPORTS 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57451.ts
+#EXTINF:-1 tvg-name="WC: ITV 1" group-title="WORLD CUP",WC: ITV 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57460.ts
+#EXTINF:-1 tvg-name="WC: ITV 4" group-title="WORLD CUP",WC: ITV 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61846.ts
+#EXTINF:-1 tvg-name="WC: RTE 1" group-title="WORLD CUP",WC: RTE 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61847.ts
+#EXTINF:-1 tvg-name="WC: RTE 2" group-title="WORLD CUP",WC: RTE 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57459.ts
+#EXTINF:-1 tvg-name="WC: TELEMUNDO" group-title="WORLD CUP",WC: TELEMUNDO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57462.ts
+#EXTINF:-1 tvg-name="WC: TSN 1 HD" group-title="WORLD CUP",WC: TSN 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57453.ts
+#EXTINF:-1 tvg-name="WC: TSN 2 HD" group-title="WORLD CUP",WC: TSN 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57454.ts
+#EXTINF:-1 tvg-name="WC: TSN 3 HD" group-title="WORLD CUP",WC: TSN 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57455.ts
+#EXTINF:-1 tvg-name="WC: TSN 4 HD" group-title="WORLD CUP",WC: TSN 4 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57456.ts
+#EXTINF:-1 tvg-name="WC: TSN 5 HD" group-title="WORLD CUP",WC: TSN 5 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57457.ts
+#EXTINF:-1 tvg-name="WC: UNIVERSO" group-title="WORLD CUP",WC: UNIVERSO
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61849.ts
+#EXTINF:-1 tvg-name="WC: UNIVISION TUDN" group-title="WORLD CUP",WC: UNIVISION TUDN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61848.ts
