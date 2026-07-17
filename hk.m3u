@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="WC: 4K 2" group-title="WORLD CUP",WC: 4K HK
+#EXTINF:-1 tvg-name="WC: 4K 2" group-title="WORLD CUP",WC: 4K SERVER HK
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61850.ts
+#EXTINF:-1 tvg-name="WC: FOX SPORTS 1" group-title="WORLD CUP",WC: FOX SPORTS 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57451.ts
