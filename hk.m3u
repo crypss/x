@@ -5,3 +5,41 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61850.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57451.ts
 #EXTINF:-1 tvg-name="WC: TSN 1 HD" group-title="WORLD CUP",WC: TSN 1 FHD
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57453.ts
+#EXTINF:-1 tvg-name="4K HK Now Sports 1 (EPL)" group-title="FOOTBALL",4K HK Now Sports 1 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50172.ts
+#EXTINF:-1 tvg-name="4K HK Now Sports 2 (EPL)" group-title="FOOTBALL",4K HK Now Sports 2 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61688.ts
+#EXTINF:-1 tvg-name="4K HK Now Sports 3 (EPL)" group-title="FOOTBALL",4K HK Now Sports 3 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61689.ts
+#EXTINF:-1 tvg-name="CA: SPORTSNET 4K" group-title="SPORTS",CA: SPORTSNET 4K
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61683.ts
+#EXTINF:-1 tvg-name="CA: SPORTSNET ONE 4k" group-title="SPORTS",CA: SPORTSNET ONE 4k
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61684.ts
+#EXTINF:-1 tvg-name="CA: TSN 4K WEST" group-title="SPORTS",CA: TSN 4K WEST
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61686.ts
+#EXTINF:-1 tvg-name="Live Football  4K : " group-title="FOOTBALL",Live Football  4K : 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61687.ts
+#EXTINF:-1 tvg-name="NCAAF  4K: ESPN" group-title="NCAAF",NCAAF  4K: ESPN
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/49474.ts
+#EXTINF:-1 tvg-name="TNT Sports Ultimate 4K" group-title="UK SPORTS",TNT Sports Ultimate 4K
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60102.ts
+#EXTINF:-1 tvg-name="WC: 4K 1" group-title="WORLD CUP",WC: 4K 1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57461.ts
+#EXTINF:-1 tvg-name="WC: 4K 2" group-title="WORLD CUP",WC: 4K 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61850.ts
+#EXTINF:-1 tvg-name="WC: 4K 3" group-title="WORLD CUP",WC: 4K 3
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61851.ts
+#EXTINF:-1 tvg-name="WC: 4K 4" group-title="WORLD CUP",WC: 4K 4
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61853.ts
+#EXTINF:-1 tvg-name="WC: 4K 5" group-title="WORLD CUP",WC: 4K 5
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61852.ts
+#EXTINF:-1 tvg-name="Hub Premier 2 UHD" group-title="FOOTBALL",Hub Premier 2 UHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59401.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 1 " group-title="UK SPORTS",UKUHD: SSP 1 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59262.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 2" group-title="UK SPORTS",UKUHD: SSP 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59263.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP F1" group-title="UK SPORTS",UKUHD: SSP F1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59264.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP Main Event" group-title="UK SPORTS",UKUHD: SSP Main Event
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59265.ts
